@@ -1,5 +1,3 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static int findRatio(int[] numbers) {
 
@@ -37,4 +35,4 @@ public class Main {
 
     }
 }
-//time complexity of this code is linear O(n) 
+//time complexity of this code is linear O(n)
